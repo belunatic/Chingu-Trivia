@@ -13,7 +13,7 @@ The project is a simple 10 trivia question of HTML/CSS/JS. It was inspired by [C
 
 live version:
 
-[Chivia Trivia] ( )
+[Chivia Trivia] (https://66c8f8b39d77671b85ca966b--effulgent-malabi-a9d194.netlify.app/ )
 
 From the repo:
 
