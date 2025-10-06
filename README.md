@@ -6,8 +6,8 @@ The project is a simple 10 trivia question of HTML/CSS/JS. It was inspired by [C
 
 ## Features
 
-** 40 question are bieng pulled from this [API](https://johnmeade-webdev.github.io/chingu_quiz_api/trial.json), 10 of them are selected for you to answer and be evaluated
-** Reset button to start again if you wish too.
+- 40 question are bieng pulled from this [API](https://johnmeade-webdev.github.io/chingu_quiz_api/trial.json), 10 of them are selected for you to answer and be evaluated
+- Reset button to start again if you wish too.
 
 ## Running The Project
 
